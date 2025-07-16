@@ -1,0 +1,11 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 15 Jul 2025 19:17:47 at https://www.uber.com/br/pt-br/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwr1%e0C2%Ps2u1%s%u%I0p3DaK0M10000000m1,0H0%kf2E300A25000%c1#L100000%f#f -F "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "pt_BR, en, *" https://www.uber.com/br/pt-br/ -O1 "E:\uber" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+
+HTTrack Website Copier/3.49-2 mirror complete in 5 seconds : 2 links scanned, 1 files written (580526 bytes overall) [117394 bytes received at 23478 bytes/sec], 580876 bytes transferred using HTTP compression in 2 files, ratio 19%
+(No errors, 0 warnings, 0 messages)

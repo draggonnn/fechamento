@@ -1,0 +1,9 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.uber.com	TRUE	/	FALSE	1999999999	__cf_bm	arL1OC2aYOpLN1xz.Rbdn.yO5xskiCoJkx6MUDJWLZM-1752621129-1.0.1.1-5rH_rInErRYqYMLSGXYxoqdJry9LxiBzFErcfWjJ9Jo21d8G.qAh38z8ytjvzn2RE7vfoTYsElC_syvF9cewwk_81VX89c1CZ0ZPKZ25RFo
+www.uber.com	TRUE	/	FALSE	1999999999	SameSite	None
+www.uber.com	TRUE	/	FALSE	1999999999	_ua	{"session_id":"47d9f21c-db55-4b7c-af14-6fb95001deca","session_time_ms":1752621130313}
+.uber.com	TRUE	/	FALSE	1999999999	marketing_vistor_id	b01427eb-c318-4d1f-a965-1d3245ae2093
+www.uber.com	TRUE	/	FALSE	1999999999	uber_sites_geolocalization	{%22best%22:{%22localeCode%22:%22pt-BR%22%2C%22countryCode%22:%22BR%22%2C%22territoryId%22:803%2C%22territoryName%22:%22Goi%C3%A2nia%22%2C%22territorySlug%22:%22goiania%22}%2C%22url%22:{%22localeCode%22:%22pt-BR%22%2C%22countryCode%22:%22BR%22}%2C%22user%22:{%22geoIpCoordinates%22:{%22lat%22:-16.7267%2C%22lng%22:-49.1091}%2C%22expiresAt%22:%222025-07-16T03:12:10.315Z%22%2C%22countryCode%22:%22BR%22%2C%22territoryId%22:803%2C%22productGeofenceUUID%22:%22c622b698-1dc8-43a2-8c75-317962901466%22%2C%22territoryGeoJson%22:[[{%22lat%22:-16.3210201%2C%22lng%22:-49.6958084}%2C{%22lat%22:-16.3210201%2C%22lng%22:-48.6381912}%2C{%22lat%22:-17.1941547%2C%22lng%22:-48.6381912}%2C{%22lat%22:-17.1941547%2C%22lng%22:-49.6958084}]]%2C%22territoryGeoPoint%22:{%22latitude%22:-16.642817%2C%22longitude%22:-49.26516}%2C%22territorySlug%22:%22goiania%22%2C%22territoryName%22:%22Goi%C3%A2nia%22%2C%22localeCode%22:%22en%22}}
+www.uber.com	TRUE	/	FALSE	1999999999	jwt-session	eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InNsYXRlLWV4cGlyZXMtYXQiOjE3NTI2MjI5MzAzMTR9LCJpYXQiOjE3NTI2MjExMzAsImV4cCI6MTc1MjcwNzUzMH0.b0rei5Ifqx4zXQCauWi04UYhQqquA0n_tPgEHej1wkw
+
