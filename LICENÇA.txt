@@ -1,0 +1,10 @@
+Autor: Luan Alves
+
+- Bom meu caro, já que baixou este código, use para bons fins. 
+Não pense em usar para "roubar" ou ludibriar as pessoas.
+
+- Fiz este código para estudo e lazer, pois gosto disso.
+- Você pode usar o código para estudar e alterar como quiser.
+
+ps: já que está aqui, a configuração do BD fica em "back/conn.php", lá
+você também colocar seu access token do mercadopago.
